@@ -1,3 +1,3 @@
 # PraktikumPBP7
-Praktikum PBP 7 <br>
-26 Oktober 2022
+Praktikum PBP 7 - Android Studio<br>
+26 October 2022 <br>
